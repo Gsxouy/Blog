@@ -24,8 +24,8 @@ module.exports = {
             link: "/docs/Js/",
           },
           {
-            text: "Js_Adv",
-            link: "/docs/Js_Adv/",
+            text: "JavaScript",
+            link: "/docs/JavaScript/",
           },
           {
             text: "LeetCode",
@@ -125,36 +125,36 @@ module.exports = {
         ],
       },
       {
-        text: "Js_Adv",
-        link: "/docs/Js_Adv/index",
+        text: "JavaScript",
+        link: "/docs/JavaScript/index",
         children: [
           {
             text: "CodeQuality",
-            link: "/docs/Js_Adv/CodeQuality",
+            link: "/docs/JavaScript/CodeQuality",
           },
           {
             text: "CommonFunction",
-            link: "/docs/Js_Adv/CommonFunction",
+            link: "/docs/JavaScript/CommonFunction",
           },
           {
             text: "Function",
-            link: "/docs/Js_Adv/Function",
+            link: "/docs/JavaScript/Function",
           },
           {
             text: "Memory",
-            link: "/docs/Js_Adv/Memory",
+            link: "/docs/JavaScript/Memory",
           },
           {
             text: "Sub",
-            link: "/docs/Js_Adv/Sub",
+            link: "/docs/JavaScript/Sub",
           },
           {
             text: "Type",
-            link: "/docs/Js_Adv/Type",
+            link: "/docs/JavaScript/Type",
           },
           {
             text: "Underscore",
-            link: "/docs/Js_Adv/Underscore",
+            link: "/docs/JavaScript/Underscore",
           },
         ],
       },
