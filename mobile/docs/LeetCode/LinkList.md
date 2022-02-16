@@ -56,6 +56,8 @@ var reverseList = function(head) {
 };
 ```
 
+[![反转链表-递归♻️-图解](https://s4.ax1x.com/2022/02/16/HfPhRO.png)](https://imgtu.com/i/HfPhRO)
+
 ```js
 递归;
 /**
