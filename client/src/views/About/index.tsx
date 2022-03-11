@@ -26,18 +26,17 @@ export const About: FC = () => {
           <p>郭霖，2019年毕业，前端研发工程师。</p>
           <p>目前就职于 新浪微博广告部门。</p>
           <p>
-            -- 从事「 微博App博文推广<TextTag>( Vue )</TextTag>{" "}
-            」等界面构建工作。
+            -- 从事「 微博App博文推广<TextTag>( Vue )</TextTag> 」
+            等界面构建工作。
           </p>
           <p>
-            -- 负责「 微博广告特征平台 」功能的管理后台从 0 到 1
-            的搭建以及部署。
-            <TextTag>( Vite + Vue3 )</TextTag>
+            -- 负责「 微博广告特征管理平台<TextTag>( Vite + Vue3 )</TextTag> 」
+            从 0 到 1 的搭建以及部署。
           </p>
           <p>
             -- 负责「 微博广告部门网站构建
             <TextTag>( Vite + TS + Vue3 )</TextTag>以及组织内部 Wiki 搭建
-            <TextTag>( docker )</TextTag> 」
+            <TextTag>( docker )</TextTag> 」。
           </p>
           <p>
             <b>目前擅长：（从熟练程度依次递减~）</b>
@@ -59,10 +58,6 @@ export const About: FC = () => {
             <li>
               博客定位：专注于<TextTag>Web前端</TextTag>
               相关基础、技术原理、性能优化、实战案例的技术类原创文章。
-            </li>
-            <li>
-              域名来源：之前网名的汇总，还有就是拼起来觉得
-              <TextTag>好看✨</TextTag>。
             </li>
           </ul>
         </Body>
@@ -98,13 +93,13 @@ export const About: FC = () => {
             <li>
               <p>2022.02.08，搭建个人博客并更新第一条博客。ଘ(੭ˊᵕˋ)੭ </p>
               <p>
-                <TextTag>React + Ts</TextTag>构建PC端、
-                <TextTag>Vue + VitePress</TextTag>构建移动端、
-                <TextTag>Mongodb + Koa</TextTag>构建Server端。
+                「<TextTag>React + Ts</TextTag>」- PC端、 「
+                <TextTag>Vue + VitePress</TextTag>」- 移动端、 「
+                <TextTag>Mongodb + Koa</TextTag>」 - Server端。
               </p>
             </li>
             <li>
-              <p>xxxx.xx.xx[待定~]，博客导航栏板块新增文章检索功能。づ♡ど </p>
+              <p>xxxx.xx.xx【待定~】，博客导航栏板块新增文章检索功能。づ♡ど </p>
             </li>
           </ul>
         </Body>

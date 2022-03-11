@@ -76,8 +76,8 @@
 ### 项目`Git`配置
 
 ```sh
-git config user.email "Gsxouy@163.com"
-git config user.name "Gsxouy"
+git config user.email "Gxsnay@163.com"
+git config user.name "Gxsnay"
 ```
 
 ### `tsconfig.json`

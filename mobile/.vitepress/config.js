@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gsxouy",
+  title: "Gxsnay",
   base: "/",
   description: "Keep on going never give up",
   head: [
@@ -39,12 +39,12 @@ module.exports = {
       },
       {
         text: "Github",
-        link: "https://github.com/gsxouy",
+        link: "https://github.com/gxsnay",
         target: "_blank",
       },
       {
         text: "Gitee(码云)",
-        link: "https://gitee.com/gsxouy",
+        link: "https://gitee.com/gxsnay",
         target: "_blank",
       },
     ],

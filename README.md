@@ -1,10 +1,10 @@
-# Gsxouy Blog
+# Gxsnay Blog
 
 **记录一些技术分享 & 学习备忘录~**
 
 ## Blog
 
-[博客](https://www.gsxouy.com)
+[博客](https://www.gxsnay.com)
 
 ## 🚀 About Me
 
@@ -19,17 +19,17 @@
 ## 🔗 Links
 
 [![微博](https://img.shields.io/badge/weibo-d13a34?style=for-the-badge&logo=sina-weibo&logoColor=white)](https://weibo.com/u/7740302227)
-[![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-95d258?style=for-the-badge&logo=wechat&logoColor=white)](https://www.gsxouy.com/qr-code/wx/)
+[![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-95d258?style=for-the-badge&logo=wechat&logoColor=white)](https://www.gxsnay.com/qr-code/wx/)
 
 ## Authors
 
-- [@Gsxouy-Gitee](https://gitee.com/gsxouy)
+- [@Gxsnay-Gitee](https://gitee.com/gxsnay)
 
-- [@Gsxouy-GitHub](https://github.com/gsxouy)
+- [@Gxsnay-GitHub](https://github.com/gxsnay)
 
 ## Support
 
-**如需联系，请发送电子邮件至Gsxouy@163.com。**
+**如需联系，请发送电子邮件至Gxsnay@163.com。**
 
 ## Badges
 

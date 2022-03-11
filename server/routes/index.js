@@ -7,7 +7,7 @@ module.exports = (router) => {
    */
   router.get("/", async (ctx, next) => {
     ctx.state = {
-      title: "Gsxouy",
+      title: "Gxsnay",
     };
     ctx.status = 200;
     ctx.body = "链接成功~";

@@ -21,7 +21,7 @@ export default class SApp {
     makeObservable(this);
   }
 
-  @observable siteTag = "Gsxouy";
+  @observable siteTag = "Gxsnay";
   @observable loading = false;
   @observable activeTag = sessionStorage.getItem("activeTag") || "Home";
   @observable headerStyle = {

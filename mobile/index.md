@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /bg.jpg
-heroText: Gsxouy
+heroText: Gxsnay
 tagline: Keep on going never give up
 actionText: 欢 ✨ 迎 👆
 actionLink: /docs/LeetCode/
@@ -13,6 +13,6 @@ features:
   - title: 关于博客
     details: 定位：专注于JavaScript基础、技术原理、性能优化、实战案例的技术类原创文章。
   - title: 联系博主
-    details: 微信 / 微博 / 邮箱(@163.com)：Gsxouy
-footer: Copyright © Gsxouy 2022 | Powered by Vitepress
+    details: 微信 / 微博 / 邮箱(@163.com)：Gxsnay
+footer: Copyright © Gxsnay 2022 | Powered by Vitepress
 ---

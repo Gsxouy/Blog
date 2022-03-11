@@ -51,8 +51,8 @@ const buildConfig = () => {
 const buildNavbar = (dirs) => {
   // 当前固定 引导坐标为 1 (数组下标)
   const GUIDE_INDEX = 1;
-  const GITEE = "https://gitee.com/gsxouy";
-  const GITHUB_URI = "https://github.com/gsxouy";
+  const GITEE = "https://gitee.com/gxsnay";
+  const GITHUB_URI = "https://github.com/gxsnay";
   const _navbarList = [
     { text: "首页", link: "/" },
     {

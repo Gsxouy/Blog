@@ -21,7 +21,8 @@ export const NoMatch: FC = () => {
     <NoMatchBox>
       <p>对应该页面暂未开发哈~</p>
       <p>
-        如有需要请微信联系👇 &nbsp;&nbsp; <UserPs>ps: 可点击👇跳转扫码</UserPs>
+        如有疑问，请微信联系👇 &nbsp;&nbsp;{" "}
+        <UserPs>ps: 可点击👇跳转扫码</UserPs>
       </p>
       <p>
         <LinkJump to="/qr-code">{sApp.siteTag}</LinkJump>
