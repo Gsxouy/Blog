@@ -27,7 +27,7 @@
 
   `e.g: videoExampleComponent`
 
-  **`Js`函数 / 变量 / `props` / `data(Vue)` 等~**
+  **`JS`函数 / 变量 / `props` / `data(Vue)` 等~**
 
   > `props: { bigProp: String }` / `data: { nikeName: 'xxx' }`
 
@@ -35,7 +35,7 @@
 
   `e.g: VideoExampleComponent`
 
-  **`Js`类 / 构造函数 / 项目的组件文件。**
+  **`JS`类 / 构造函数 / 项目的组件文件。**
 
   > `components/(文件夹下)` - `VideoItem.vue`
 
@@ -95,7 +95,7 @@
 
 > **不推荐`v-for`和`v-if`在 同一元素。如果非要用，`v-for`的优先级高于`v-if`。**
 >
-> **如果在`dom`结构中`for-if`同时出现的话。在`Js`中，有两种情况：**
+> **如果在`dom`结构中`for-if`同时出现的话。在`JS`中，有两种情况：**
 >
 > **`for() { if() {} }` / `if() { for() {} }`**
 >
@@ -326,6 +326,8 @@
 ```
 
 ---
+
+## 扩展
 
 八皇后 - 记录
 

@@ -44,7 +44,7 @@ export const About: FC = () => {
           <p>
             --
             <TextTag>
-              HTML、Js、Css、Vue、( Ts｜Node｜React｜小程序 )、(
+              HTML、JS、Css、Vue、( TS｜Node｜React｜小程序 )、(
               Webpack｜Gulp｜Vite｜mongodb )
             </TextTag>
           </p>

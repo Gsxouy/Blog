@@ -263,7 +263,7 @@ git config user.name "Gxsnay"
 
 ## 自定义`Hook`
 
-## `Css in Js`
+## `Css in JS`
 
 - **`styled-component`**
 
