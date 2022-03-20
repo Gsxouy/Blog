@@ -62,6 +62,7 @@ const buildNavbar = (dirs) => {
     { text: "Gitee(码云)", link: GITEE, target: "_blank" },
   ];
   dirs.forEach((_dirName) => {
+    if (_dirName === ".DS_Store") return false;
     const _currentPathModel = {
       text: genFileRuleName(_dirName),
       link: `/${curMdFileName}/${_dirName}/`,
