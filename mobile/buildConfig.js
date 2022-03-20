@@ -11,7 +11,6 @@ const removeSuffix = (fileName) => {
 /**
  * @description 生成首字母大写的文件夹名称
  * @author guolin
- * @date 02/08/2022
  * @param {*} fileName
  * @e.g {*} genFileRuleName(js) => Js
  */

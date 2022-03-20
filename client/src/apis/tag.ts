@@ -3,7 +3,6 @@ import request from "./request";
 /**
  * @description 获取 标签列表
  * @author guolin
- * @date 02/08/2022
  * @url /tag/list
  * @method get
  */
@@ -18,7 +17,6 @@ export function getTagList(params = {}) {
 /**
  * @description 获取 标签对应的博客
  * @author guolin
- * @date 02/08/2022
  * @url /tag/blog-list
  * @method get
  */
