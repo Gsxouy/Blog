@@ -3,7 +3,6 @@ import request from "./request";
 /**
  * @description 获取 博客列表
  * @author guolin
- * @date 02/08/2022
  * @url /blog/list
  * @method get
  */
@@ -18,7 +17,6 @@ export function getBlogList(params = {}) {
 /**
  * @description 获取 博客详情
  * @author guolin
- * @date 02/08/2022
  * @url /blog/detail
  * @method get
  */
@@ -33,7 +31,6 @@ export function getBlogDetail(params = {}) {
 /**
  * @description 创建博客
  * @author guolin
- * @date 02/08/2022
  * @url /blog/create
  * @method post
  */
@@ -48,7 +45,6 @@ export function postBlogCreate(data = {}) {
 /**
  * @description 编辑博客
  * @author guolin
- * @date 02/08/2022
  * @url /blog/create
  * @method put
  */
